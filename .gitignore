@@ -1,0 +1,31 @@
+# Build artifacts
+build/
+bin/
+
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated data (keep CSVs, ignore generated images)
+data/*.png
+data/dashboard.html
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.clangd
+compile_commands.json
+
+# Logs
+*.log

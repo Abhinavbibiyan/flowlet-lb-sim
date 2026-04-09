@@ -1,0 +1,14 @@
+metric,ECMP,Flowlet
+avg_link_util,0.0031,0.0031
+max_link_util,0.0048,0.0040
+min_link_util,0.0021,0.0023
+imbalance_ratio,2.2877,1.7624
+std_dev_util,0.0008,0.0005
+avg_fct_ms,0.0093,0.0093
+p50_fct_ms,0.0064,0.0064
+p95_fct_ms,0.0208,0.0208
+p99_fct_ms,0.0340,0.0340
+throughput_gbps,0.2486,0.2486
+hash_collisions,245,0
+flowlet_switches,0,0
+completed_flows,293,293
