@@ -143,5 +143,4 @@ This simulator directly demonstrates the NVIDIA AI training cluster problem:
 | Chart.js | 4.4.0 (CDN, for dashboard) |
 
 ---
-
-*Built for NVIDIA Systems Research — Spine-Leaf · ECMP · Flowlet · FCT · AI Cluster Networking*
+ 
